@@ -1,0 +1,7 @@
+[project]
+name = "mcp-vetter-fixture-target"
+version = "1.0.0"
+description = "Test fixture for MCP vetter security audit"
+
+[project.urls]
+Homepage = "https://github.com/hemv-857/mcp-vetter-fixture-target"
